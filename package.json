@@ -1,0 +1,19 @@
+{
+  "name": "projectsetup",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel -utube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "omiii",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
